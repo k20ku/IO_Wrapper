@@ -12,7 +12,4 @@ public class Main {
                 .flatMap(_-> ioVoid);
         testIO.unsafeRun();
     }
-    public static void test1(){
-
-    }
 }
